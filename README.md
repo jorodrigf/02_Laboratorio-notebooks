@@ -23,8 +23,36 @@ Este repositorio contiene 4 notebooks de Google Colab que cubren también los fu
 ├── 01_Fundamentos_NumPy_Pandas.ipynb
 ├── 02_Visualizacion_Datos.ipynb
 ├── 03_Machine_Learning_Basico.ipynb
-└── 04_Deep_Learning_Intro.ipynb
-       
+├── 04_Deep_Learning_Intro.ipynb
+│
+└── images/
+    ├── notebook1/
+    │   ├── distribucion_de_supervivientes.png
+    │   ├── digits_fundamentos.png
+    │   ├── figura_de_sepal.png
+    │
+    ├── notebook2/
+    │   ├── distribucion_de_clases_vinos.png
+    │   ├── distribucion_y_correlacion_de_precios.png
+    │   ├── distribucion_de_clases_por_edades_y_supervivencia.png
+    │   ├── graficos_estadisticos.png
+    │   ├── escatter_interactivo.png
+    │   └── digitos.png
+    │   └── titanic_vs_iris.png
+    │
+    ├── notebook3/
+    │   ├── matriz_de_confusion_digits.png
+    │   ├── matriz_de_confusion_logistic_regresion.png
+    │   ├── prediccines_linear_regresion.png
+    │   ├── top_10_fratures_mas_importantes.png
+    │   └── digits_analysis.png
+    │
+    └── notebook4/
+        ├── accuracy_and_loss_digits.png
+        ├── accuracy_and_loss_iris.png
+        ├── predicciones_vs_real_boston_housings.png
+        ├── comparacion_de_modelos_deep_learning.png
+        ├── digits.png     
 ```
 
 ---
